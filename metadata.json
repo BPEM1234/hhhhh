@@ -1,0 +1,6 @@
+{
+  "name": "Medisys - Pharmacy & Medical Store",
+  "description": "ঔষধের স্টক ও মোট হিসাব, মেডিকেল ইকুইপমেন্ট বিক্রির তালিকা, স্টাফ ব্যবস্থাপনা এবং ফার্মেসির সময়সূচী পরিচালনার অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
